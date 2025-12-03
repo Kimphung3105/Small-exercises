@@ -1,0 +1,14 @@
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\bin\Debug\net9.0\Small-exercises.exe
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\bin\Debug\net9.0\Small-exercises.deps.json
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\bin\Debug\net9.0\Small-exercises.runtimeconfig.json
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\bin\Debug\net9.0\Small-exercises.dll
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\bin\Debug\net9.0\Small-exercises.pdb
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.AssemblyInfoInputs.cache
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.AssemblyInfo.cs
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.csproj.CoreCompileInputs.cache
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.dll
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\refint\Small-exercises.dll
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.pdb
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.genruntimeconfig.cache
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\ref\Small-exercises.dll
