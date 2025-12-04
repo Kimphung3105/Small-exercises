@@ -12,3 +12,4 @@ C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\re
 C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.pdb
 C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.genruntimeconfig.cache
 C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\ref\Small-exercises.dll
+C:\Users\pygem\programmering\Small-exercises\Small-exercises\obj\Debug\net9.0\Small-exercises.sourcelink.json
